@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Moqups](https://app.moqups.com/tKAJr2SvLI/view?ui=0)
+[Book List View](https://app.moqups.com/tKAJr2SvLI/view?ui=0)
+
+[Book Details View](https://app.moqups.com/tKAJr2SvLI/view?ui=0)
+
+[Add A Book View](https://app.moqups.com/tKAJr2SvLI/view?ui=0)
 
 ### Project Tracker
 
@@ -17,3 +21,5 @@ For this assignment, you'll create some initial plans for your project.
 ### Project Repo Link
 
 [Project on GitHub](https://github.com/hannahWard/ANovelCompanion)
+
+
