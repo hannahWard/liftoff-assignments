@@ -14,5 +14,6 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### Resume
 Submitted via Slack
+[Resume](https://docs.google.com/document/d/1ntJRTv62C8MV4s0F2eZx7OuuV1xXNcsXjg9kHyGFu0s/edit?usp=sharing)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
