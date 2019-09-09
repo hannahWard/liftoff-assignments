@@ -14,31 +14,30 @@ site) allows book lovers to add and find all kind of interesting facts,
 theories, and news on books they love. 
 
 ### Features
-1. Spoilers- Users will be able to add pieces of information to the 
-details page
+1. Book List- Users will be able to find and add books
 
-2. Filter Book List- Users will be able to filter the Book Index by 
-different criteria such as Author, Category, or Rating
+2. Spoilers- Users will be able to add pieces of information about 
+books to the details page 
 
 3. Authentication- Users will be able to create personal accounts
 
-4. Personal Collections- Users will be able to have different collections
-to which books can be added
+4. Rate & Review- Users will be able to rate & review books as well 
+as see ratings and reviews other users have left
 
-5. Levels of Participation- Users will earn profile pictures that change
-based on quantity of contributions to the site
+5. Personal Collections- Users will be able to add books to their own
+personal lists of books
 
 ### Technologies
 C#/.Net
-Java 
+CSS/HTML 
 Bootstrap
 
 ### What I'll Have to Learn
 -How to add and manage users and authentication
--How to add filters to Index Views
+-How extend ASP.NET Identity
 -How to save images to a database
--How to implement a layout 
--How to display a modal dialog box
+-How to implement a bootstrap layout 
+-How to create a many-to-many relationship
 
 ### Project Tracker
 https://trello.com/b/wRlx466s/anovelcompanion
