@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[A Novel Companion Project Presentation](https://docs.google.com/presentation/d/1oi1Tr2CwZd97iGwzALOtNJpbwKT-HptkTTntYLZJ7AA/edit?usp=sharing)
